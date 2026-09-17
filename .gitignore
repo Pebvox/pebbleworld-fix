@@ -1,0 +1,23 @@
+# Build results and local outputs
+/PebbleFix.exe
+/release/
+src/bin/
+src/obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
